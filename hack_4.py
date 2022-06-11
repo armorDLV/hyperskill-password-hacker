@@ -5,7 +5,7 @@ import string
 import urllib.request
 import json
 
-parser = argparse.ArgumentParser(description='Stage 1/5: Establishing a connection')
+parser = argparse.ArgumentParser(description='Stage 4/5: Catching exception')
 parser.add_argument('ip', help="IP address")
 parser.add_argument('port', type=int, help="Port number")
 args = parser.parse_args()
