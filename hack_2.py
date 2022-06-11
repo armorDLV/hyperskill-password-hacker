@@ -3,7 +3,7 @@ import socket
 import itertools
 import string
 
-parser = argparse.ArgumentParser(description='Stage 1/5: Establishing a connection')
+parser = argparse.ArgumentParser(description='Stage 2/5: Simple brute force')
 parser.add_argument('ip', help="IP address")
 parser.add_argument('port', type=int, help="Port number")
 args = parser.parse_args()
