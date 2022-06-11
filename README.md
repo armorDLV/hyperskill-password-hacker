@@ -1,7 +1,5 @@
 # hyperskill-password-hacker
-Code created during the Hyperskill course "Password Hacker"
-
-[Hyperskill - Password Hacker](https://hyperskill.org/projects/80)
+Code generated during the course [Hyperskill - Password Hacker](https://hyperskill.org/projects/80)
 
 ---
 
